@@ -1,2 +1,4 @@
 # vue-ninePrize-wheelPrize
-基于vue和vantUI的loading组件做的样式可自定义的九宫格抽奖活动及圆盘跑马灯抽奖盘
+基于vue和vantUI的loading组件做的样式可自定义的九宫格抽奖活动及圆盘跑马灯抽奖盘。
+
+具体思路及逻辑过程重点可看博客。
