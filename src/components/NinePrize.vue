@@ -34,7 +34,7 @@
 
 <script>
 // utils
-import { px2vw } from 'Utils/common/'
+import { px2vw } from '../utils'
 
 // instance
 export default {
@@ -330,6 +330,16 @@ export default {
 </script>
 
 <style lang='scss' scoped>
+/*
+    flex 水平垂直居中
+    @param $direction 方向，具体参考flex布局
+*/
+@mixin fcc($direction: row) {
+  display: flex;
+  flex-direction: $direction;
+  justify-content: center;
+  align-items: center;
+}
 .nine-prize {
   position: relative;
   padding: 2px;
