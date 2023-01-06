@@ -20,7 +20,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
     "@vue/cli-plugin-router": "~4.4.0",
-    "@vue/cli-service": "~4.4.0",
+    "@vue/cli-service": "~5.0.8",
     "babel-plugin-import": "^1.13.0",
     "cssnano-preset-advanced": "^4.0.7",
     "node-sass": "^4.12.0",
